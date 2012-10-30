@@ -1,0 +1,4 @@
+name: "opam-dev-repo"
+address: "git@github.com:ImAlsoGreg/opam-dev-repo.git"
+kind: "git"
+priority: 10
