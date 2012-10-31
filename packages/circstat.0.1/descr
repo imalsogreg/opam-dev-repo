@@ -1,0 +1,3 @@
+Ocaml circular statistics library
+
+Compute descriptive statistics of one circular variable (sample mean, median, mode), model fitting.  Interactions between two variables - circ-lin, lin-circ, circ-circ regression. Based on the methods in Statistical analysis of circular data, N.I Fisher.
